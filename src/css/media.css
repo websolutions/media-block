@@ -1,0 +1,9 @@
+.media,
+.bd {
+  overflow: hidden;
+}
+
+.media .img {
+  float: left;
+  margin-right: 10px;
+}
